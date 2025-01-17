@@ -1,0 +1,11 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve -s ."
+  },
+  "dependencies": {
+    "firebase": "^10.7.1",
+    "serve": "^14.2.0"
+  }
+}
